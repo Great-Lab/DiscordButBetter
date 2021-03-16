@@ -25,4 +25,5 @@ TUTORIAL COMING SOON.
 
 7. Paste the code in the console then press enter
 8. You're all set!
+
 ![image](https://user-images.githubusercontent.com/64395933/111244340-14e6ce80-85d9-11eb-9ec3-0a52fdcb78ef.png)
